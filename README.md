@@ -7,7 +7,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 #### 1.1. Overall
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.1%20Connecticut_property_sales_over_time.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/1.1%20Connecticut_property_sales_over_time.png?raw=true"
   width="900"
 />
 
