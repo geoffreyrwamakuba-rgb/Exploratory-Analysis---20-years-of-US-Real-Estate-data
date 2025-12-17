@@ -21,7 +21,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 #### 1.2 By Property Type
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.2%20Sales_trends_by_property_type.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/1.2%20Sales_trends_by_property_type.png?raw=true"
   width="900"
 />
 
@@ -33,12 +33,12 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 
 #### 1.3 By Town
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.3%20Sales_over_time_for_top_10_towns.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/1.3%20Sales_over_time_for_top_10_towns.png?raw=true"
   width="900"
 />
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/1.4%20Median_sales_by_town.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/1.4%20Median_sales_by_town.png?raw=true"
   width="500"
 />
 
@@ -52,7 +52,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 ### 2.1 How does sale price vary with assessed value?
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.1%20Sales_vs_value_scatter_plot_(log_scale).png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/2.1%20Sales_vs_value_scatter_plot_(log_scale).png?raw=true"
   width="900"
 />
 
@@ -68,7 +68,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 ### 2.2 Does property type influence the % Profit on Sale?
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/2.2.%20%25_Profit_Distribution_by_Property_Type.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/2.2.%20%25_Profit_Distribution_by_Property_Type.png?raw=true"
   width="900"
 />
 
@@ -83,7 +83,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 ### 3. Which towns or regions have the highest sale price over the years?
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/3.%20Filled%20Map.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/3.%20Filled%20Map.png?raw=true"
   width="900"
 />
 
@@ -102,7 +102,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 ### 4. How do median household income, education levels, or poverty rates correlate with prices and sales activity?
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/4.%20Demographics_correlation_heatmap.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/4.%20Demographics_correlation_heatmap.png?raw=true"
   width="900"
 />
 
@@ -119,7 +119,7 @@ In this project, I utilise Python (Pandas, NumPy, Matplotlib, Seaborn) to identi
 ### 5. How did COVID-19 pandemic years affect sale prices and volumes in Connecticut?
 
 <img 
-  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/5.%20COVID%20YoY%20growth.png?raw=true"
+  src="https://github.com/geoffreyrwamakuba-rgb/Exploratory-Analysis---20-years-of-US-Real-Estate-data/blob/main/Images/5.%20COVID%20YoY%20growth.png?raw=true"
   width="900"
 />
 
